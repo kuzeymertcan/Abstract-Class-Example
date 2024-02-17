@@ -14,8 +14,8 @@ The Java code is a comprehensive example of object-oriented programming, demonst
 3. **Concrete Classes (3D Shapes):**
    - `Cylinder`, `Sphere`, `Pyramid`, and `Cone` are concrete classes extending `Shape3D`. They provide specific implementations for both `getArea()` and `getVolume()`.
 
-4. **TestMain Class:**
-   - The `TestMain` class serves as a test environment, creating instances of different shapes and storing them in an array.
+4. **Main Class:**
+   - The `Main` class serves as a test environment, creating instances of different shapes and storing them in an array.
    - It demonstrates polymorphism by iterating through the array of `Shape2D` objects and printing information about each shape.
 
 5. **Output Example:**
@@ -31,7 +31,7 @@ The Java code is a comprehensive example of object-oriented programming, demonst
    - Override `toString()` to display information about each shape, including volume and area.
 
 3. **Polymorphism:**
-   - Utilize polymorphism by storing different shapes in an array of `Shape2D` and iterating through them in the `TestMain` class.
+   - Utilize polymorphism by storing different shapes in an array of `Shape2D` and iterating through them in the `Main` class.
 
 ### Future Considerations:
    - Consider adding more shapes or features to expand the project.
