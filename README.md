@@ -33,9 +33,4 @@ The Java code is a comprehensive example of object-oriented programming, demonst
 3. **Polymorphism:**
    - Utilize polymorphism by storing different shapes in an array of `Shape2D` and iterating through them in the `Main` class.
 
-### Future Considerations:
-   - Consider adding more shapes or features to expand the project.
-   - Enhance documentation with detailed comments or additional files.
-   - Explore incorporating unit tests to ensure the correctness of shape calculations.
-
 The provided code effectively demonstrates object-oriented principles and can serve as a foundation for expanding a geometry-related project.
